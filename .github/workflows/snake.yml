@@ -1,4 +1,4 @@
-name: Generate Pink Contribution Snake
+name: Generate Contribution Snake
 
 on:
   push:
