@@ -75,11 +75,12 @@
 
 <h2>GitHub Activity</h2>
 
+
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=yasaswini250505&theme=github-compact&hide_border=true&area=true&line=EC4899&point=F472B6&area_color=F9A8D4&color=EC4899&title_color=EC4899"
-  alt="GitHub Activity Graph" />
-
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yasaswini250505&theme=github-compact&bg_color=00000000&hide_border=true&area=true&line=EC4899&point=F472B6&area_color=F9A8D4&color=EC4899&title_color=EC4899&days=31"
+  alt="GitHub Activity Graph"
+/>
 <br><br>
 
 <picture>
